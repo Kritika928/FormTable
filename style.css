@@ -1,0 +1,41 @@
+caption {
+    caption-side:middle;
+    margin-left: 40%
+  }
+  div{
+    background-color: white;
+    padding-left: 1%;
+    padding-bottom: 1%;
+  }
+  table
+  {
+    background-color : white;
+  }
+  input
+  {border:none;
+    width : 98%;
+  }
+  table {background-color: white;
+    border-spacing : 54px;
+    box-shadow: black;
+    border-collapse: collapse;
+    width: 75%;
+    border:2px solid black;
+  }
+  .a
+  {
+    background-color : lightgreen;
+    text-align : center
+  }
+  input
+  {
+    border:none;
+  }
+  body
+  {
+    background-color : lightgreen;
+  }
+  img{ 
+    height:70%;
+    width:50%;
+  }
